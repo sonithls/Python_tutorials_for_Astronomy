@@ -1,7 +1,7 @@
 # Python tutorials for Astronomy
 Python tutorials for Astronomy and Astrophysics
 
-
-[Astropy Tutorials - 1](https://sonithls.github.io/Python_tutorials_for_Astronomy/blob/main/docs/Anacondabasics-1/index.html)  
-[Anaconda basics](https://sonithls.github.io/Python_tutorials_for_Astronomy/blob/main/docs/astropybasics-1/index.html)  
-[Git and related tools](https://sonithls.github.io/Python_tutorials_for_Astronomy/blob/main/docs/astropybasics-1/index.html)
+Python_tutorials_for_Astronomy/blob/main/Anaconda%20basics.ipynb
+[Astropy Tutorials - 1](Python_tutorials_for_Astronomy/blob/main/Astropy%20tutorial-1.ipynb)  
+[Anaconda basics](Python_tutorials_for_Astronomy/blob/main/Git%20and%20related%20tools%20.ipynb)  
+[Git and related tools](Python_tutorials_for_Astronomy/blob/main/Git%20and%20related%20tools%20.ipynb)
